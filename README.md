@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Yuri Viana.
+# 👋 Olá! Eu sou o Yuri Viana.
 - 👀 Estou interessado em trabalhar no ramo da tecnologia e desenvolvimento.
 - 🌱 Estudando front-end e linguagens de programação.
 - 😄 Pronouns: ele/dele.
@@ -6,9 +6,9 @@
 
   ##
   
-<div style="display: inline_block"><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuric-Viana&show_icons=true&theme=dracula#gh-dracula-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric-Viana&layout-compact&langs_count-16&theme=dracula#gh-dracula-mode-only">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuric-Viana&show_icons=true&theme=dracula#gh-dracula-mode-only">
+  <img  width="50%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric-Viana&layout-compact&langs_count-16&theme=dracula#gh-dracula-mode-only">
 </div
 
   ##
