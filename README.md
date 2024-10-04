@@ -1,8 +1,13 @@
-# 👋 Olá! Eu sou o Yuri Viana.
-- 👀 Estou interessado em trabalhar no ramo da tecnologia e desenvolvimento.
-- 🌱 Estudando front-end e linguagens de programação.
-- 😄 Pronouns: ele/dele.
-- ⚡ Fun fact: estou me graduando em engenharia de software.
+# 👋 Olá! Eu sou o Yuri Cardoso Viana.
+- Estudante de Engenharia de Software na Universidade Católica de Minas Gerais. Estou no segundo período e tenho paixão por desenvolvimento de software e tecnologia.
+
+- 💻 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript, além de aprimorar minhas habilidades em C e C++. Também tenho interesse em metodologias ágeis, refatoração de código e melhores práticas de desenvolvimento.
+
+- 🚀 Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e estagiar na área de desenvolvimento de sistemas.
+
+- 🌱 Acredito em aprendizado contínuo, trabalho em equipe e na importância de criar soluções de impacto.
+
+Vamos colaborar? Fique à vontade para entrar em contato!
 
   ##
   
