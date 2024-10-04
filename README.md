@@ -11,10 +11,10 @@ Vamos colaborar? Fique à vontade para entrar em contato!
 
   ##
   
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuric-Viana&show_icons=true&theme=dracula#gh-dracula-mode-only">
-  <img  width="50%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric-Viana&layout-compact&langs_count-16&theme=dracula#gh-dracula-mode-only">
-</div
+<div style="display: flex" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuric-Viana&show_icons=true&theme=dracula#gh-dracula-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric-Viana&layout-compact&langs_count-16&theme=dracula#gh-dracula-mode-only">
+</div>
 
   ##
 
