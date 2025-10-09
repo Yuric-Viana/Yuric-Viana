@@ -1,7 +1,8 @@
 # 👋 Olá! Eu sou o Yuri Cardoso Viana.
 - 🎓 Estudante de Engenharia de Software na Pontificia Universidade Católica de Minas Gerais. Estou no segundo período e tenho paixão por desenvolvimento de software e tecnologia.
 
-- 💻 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento front-end com HTML, CSS e JavaScript, além de aprimorar minhas habilidades em C e C++. Também tenho interesse em metodologias ágeis, refatoração de código e melhores práticas de desenvolvimento.
+- 💻 Possuo sólida base em JavaScript, HTML e CSS, com certificações nessas tecnologias, e atualmente estou aprendendo Java para ampliar meus conhecimentos em back-end. Tenho interesse em boas práticas de desenvolvimento e refatoração de código.
+Sou apaixonado por tecnologia e busco constantemente evoluir como desenvolvedor, criando soluções eficientes e bem estruturadas.
 
 - 🚀 Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e estagiar na área de desenvolvimento de sistemas.
 
