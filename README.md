@@ -142,9 +142,9 @@ Além da graduação, também venho complementando meus estudos com formações 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuric-Viana&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Yuri Viana" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Yuric-Viana&show_icons=true&hide_border=true&theme=transparent" alt="Estatísticas do GitHub de Yuri Viana" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuric-Viana&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais utilizadas por Yuri Viana" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yuric-Viana&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais utilizadas por Yuri Viana" />
 
 </div>
 
